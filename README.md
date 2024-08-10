@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calculadora de IMC
 
 Este projeto é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida com HTML, CSS e JavaScript. A calculadora permite que os usuários insiram seu peso e altura para calcular seu IMC e fornece uma descrição baseada no valor calculado.
@@ -33,3 +34,4 @@ O arquivo JavaScript (`script.js`) contém a lógica para calcular o IMC e atual
 2. Abra o arquivo `index.html` em um navegador web.
 3. Insira seu peso em quilogramas (Kg) e sua altura em metros (M).
 4. Clique no botão "Calcular" para ver seu IMC e a descrição correspondente.
+=======
