@@ -35,3 +35,5 @@ O arquivo JavaScript (`script.js`) contém a lógica para calcular o IMC e atual
 3. Insira seu peso em quilogramas (Kg) e sua altura em metros (M).
 4. Clique no botão "Calcular" para ver seu IMC e a descrição correspondente.
 =======
+
+Para mais informações, você pode me encontrar no [LinkedIn](linkedin.com/in/wedsontavares/).
