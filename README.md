@@ -36,4 +36,4 @@ O arquivo JavaScript (`script.js`) contém a lógica para calcular o IMC e atual
 4. Clique no botão "Calcular" para ver seu IMC e a descrição correspondente.
 =======
 
-Para mais informações, você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/wedsontavares/).
+Para mais informações, você pode me encontrar no <a href="https://www.linkedin.com/in/wedsontavares/" target="_blank">LinkedIn</a>.
