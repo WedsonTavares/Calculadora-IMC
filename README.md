@@ -13,7 +13,9 @@ Link para mais informações sobre IMC
 Tecnologias Utilizadas
 
 HTML
+
 CSS
+
 JavaScript
 
 Estrutura do Projeto
@@ -28,6 +30,7 @@ JavaScript
 O arquivo JavaScript (script.js) contém a lógica para calcular o IMC e atualizar a interface do usuário com os resultados.
 
 Como Usar
+
 Clone este repositório para o seu ambiente local.
 Abra o arquivo index.html em um navegador web.
 Insira seu peso em quilogramas (Kg) e sua altura em metros (M).
